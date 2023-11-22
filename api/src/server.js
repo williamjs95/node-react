@@ -1,4 +1,4 @@
-// chama express
+// importa express
 const express = require('express');
 
 // executa express
